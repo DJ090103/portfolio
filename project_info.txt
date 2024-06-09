@@ -1,0 +1,38 @@
+three js is used for rendering and animating 3d models
+ 
+react three fiber library for three js
+
+tailwind css apopular utility first css for styling framework
+
+framer Motion for animation in react
+
+LOAD-> CREATE->CUSTOMIZE : 3D Models and Geometries
+
+Email JS is used for sending / receiving emails through websites 
+
+we use vite app 
+react -> browserRouter how it work
+
+Sketchfab where i downloaded the model
+
+what are higher order components and how we can use them 
+]
+]]
+
+he authors anticipate AR's future impact on human life, especially with its integration into mobile devices, marking an inevitable trend in technological development.
+
+
+Development challenges, technical obstacles, language barriers, and user experience concerns persist.
+Enhances experiences, aids industries, fosters collaboration.
+ include diverse application
+
+
+ introduce the concept of AR cloud as a potential game-changer for collaborative experiences.
+
+The authors contribute by summarizing the research status, outlining key technologies, providing an overview of AR development tools, and discussing various application areas
+
+Disparities in AR Development:
+
+Discrepancies between foreign and domestic AR development are noted, with foreign companies being more advanced commercially.
+Challenges in AR Technology:
+ technical challenges in AR technology.
